@@ -37,7 +37,7 @@
       }
     },
     "AnyKernel3": {
-      "use": false,
+      "use": true,
       "release": true,
       "repo": "https://github.com/easterNday/AnyKernel3/",
       "branch": "thyme"
