@@ -7,7 +7,7 @@
       "device": "camellia",
       "defconfig": "camellia_defconfig"
     },
-    "withKernelSU": fasle,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
