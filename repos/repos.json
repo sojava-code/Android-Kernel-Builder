@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "DogDay-KernelSU-Proton-release",
-      "repo": "https://github.com/sajalkmr/kernel_xiaomi_camellia",
+      "repo": "https://github.com/sojava-code/kernel_xiaomi_camellia",
       "branch": "camellia-r-oss",
       "device": "camellia",
       "defconfig": "camellia_defconfig"
